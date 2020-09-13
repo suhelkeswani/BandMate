@@ -1,3 +1,5 @@
+![](https://drive.google.com/file/d/1LQonL_slgJ--YKsEDORlCEL77xcd7Ev6/view)
+
 # BandMate <br>
 BandMate is a jazz accompaniment software made with SuperCollider which allows users to customize, mix, play, and record instrumental backing tracks.  
 
@@ -12,7 +14,7 @@ BandMate is a jazz accompaniment software made with SuperCollider which allows u
 - Comp Rhythm Menu: adjusts the beats upon which the chords are played, where 1, 2, 3, and 4 represent the first, second, third, and fourth quarter note of a measure respectively
 - Chord Progression Menu: adjusts the chord progression which governs the chord changes
 - ◀️◀️ button: restarts the instrumental track from the beginning
-- ▶ / ▮▮ button: starts or stops the instrumental track
+- ▶ / ⏸️ button: starts or stops the instrumental track
 - 🔴/⬛ button: starts or stops the recording of the instrumental track
 - File Path Box: adjusts the file path upon which an recording will be made when the 🔴 button is clicked, recording file type can be adjustsed to numerous audio file types such as as wav, mp3, and aiff
 
