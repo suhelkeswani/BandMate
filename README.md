@@ -3,6 +3,9 @@
 # BandMate <br>
 BandMate is a jazz accompaniment software made with SuperCollider which allows users to customize, mix, play, and record instrumental backing tracks.  
 
+# Setup and Install
+BandMate is made with SuperCollider, a platform for audio synthesis and algorithmic composition. You can download SuperCollider [here](https://supercollider.github.io/). To run BandMate, you need to download and setup the SuperCollider IDE and run the file BandMatev1.0.scd by putting your cursor after the first open parenthesis and using the shortcut control + enter or command + enter to run the script.
+
 ## User Interface Guide <br>
 - Master Slider: adjusts the overall volume of the instrumental track, ranges from 0 to 100.
 - Drums Slider: adjust the volume of the drums in the instrumental track, ranges from 0 to 100
