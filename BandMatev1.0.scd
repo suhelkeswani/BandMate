@@ -87,17 +87,17 @@ Pbindef(\comp,
 		~c5dom7, ~c5dom7, ~c5dom7, ~c5dom7
 
 	], inf),
-	\rel, 0.4,
+	\rel, Pgauss(0.4, 0.02, inf),
 	\mix, 0.2,
     \modIndex, 0.2,
     \lfoSpeed, 0.5,
     \lfoDepth, 0.4,
     \inputLevel, Pgauss(0.8, 0.1, inf),
     \amp, 0.2 * ~masterVol * ~compVol,
-	\legato, 1/2,
-	\strum, Pwhite(0, 0.02),
+	\legato, Pgauss(1/2, 0.02, inf),
 	\ctranspose, 0,
-	\pan, 0.1
+	\pan, 0.1,
+	\strum, Pgauss(0.01, 0.01),
 );
 
 postln("Comp Pbind initialized.");
