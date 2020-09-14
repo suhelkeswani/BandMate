@@ -1,4 +1,4 @@
-![](https://lh5.googleusercontent.com/IkNO07xrdMHT7LJRMGNltkCEZQd4TvGEBpBuA7GmDFFDCdNiMDiO8o4WnWXKRK6oRVDtgT4-ou9sFg=w2880-h1578-rw)
+![](https://preview.redd.it/bnagpyoe2zm51.png?width=1536&format=png&auto=webp&s=50d4190cbb7889962a7efb92b2839ac3c7420d45)
 
 # BandMate <br>
 BandMate is a jazz accompaniment software made with SuperCollider which allows users to customize, mix, play, and record instrumental backing tracks.  
