@@ -1,7 +1,7 @@
 /*BandMate, version 1.0
 by Suhel Keswani
 Thanks for checking out my code! Feel free to modify it how you please.
-I've done my best too annotate my code with comments.
+I've done my best to annotate my code with comments.
 For questions or iniquiry, you can reach me at suhelkeswani@gmail.com
 */
 
